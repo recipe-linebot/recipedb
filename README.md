@@ -1,1 +1,1 @@
-# recipedb
+# recipe-linebot/recipedb
